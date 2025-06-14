@@ -1,1 +1,1 @@
-# uma calculadora feita em rust
+* uma calculadora feita em rust
